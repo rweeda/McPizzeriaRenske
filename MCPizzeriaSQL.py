@@ -1,4 +1,6 @@
-# Vul hier de naam van je programma in:
+# Hier komt alle SQL code te staan
+#
+#  Vul hier de naam van je programma in:
 #
 #
 # Vul hier jullie namen in:
